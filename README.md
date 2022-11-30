@@ -6,11 +6,16 @@ Project for DigiUp Certification Junior Web Developer
 
 Katalog buku digital menggunakan CodeIgniter
 
-### 
+### Bahasa Pemrograman dan Teknologi
 
-* 
-* 
-* 
+Berikut adalah bahasa pemrograman dan teknologi yang digunakan dalam proses pengembangan
+
+* PHP
+* HTML
+* CSS
+* CodeIgniter
+* Bootstrap
+* MySQL 7
 
 ### Pages
 ```
