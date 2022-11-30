@@ -20,7 +20,6 @@ $ Buku Pages
 ```
 
 ## Preview Pages
-```
 ### Homepage
 <img width="960" alt="Screenshot 2022-11-30 203859" src="https://user-images.githubusercontent.com/100183012/204810948-ef86acff-7d30-4e8b-a3d9-b97b5eb07c25.png">
 
