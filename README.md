@@ -18,11 +18,11 @@ Berikut adalah bahasa pemrograman dan teknologi yang digunakan dalam proses peng
 * MySQL 7
 
 ### Pages
-```
+
 * Homepage
 * Penerbit Pages
 * Buku Pages
-```
+
 
 ## Preview Pages
 ### Homepage
