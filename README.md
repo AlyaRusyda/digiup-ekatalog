@@ -19,9 +19,9 @@ Berikut adalah bahasa pemrograman dan teknologi yang digunakan dalam proses peng
 
 ### Pages
 ```
-$ Homepage
-$ Penerbit Pages
-$ Buku Pages
+* Homepage
+* Penerbit Pages
+* Buku Pages
 ```
 
 ## Preview Pages
